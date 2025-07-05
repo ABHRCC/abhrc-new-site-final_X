@@ -6,7 +6,7 @@ export default function EmployeeDutiesRights() {
       <Head>
         <title>Employee Duties Rights</title>
       </Head>
-      <main style={ padding: 30 }>
+      <main style={{ padding: 30 }}>
         <h1>Employee Duties Rights</h1>
         <p>This is a detailed page for the "Employee Duties Rights" course offered by ABHRC.</p>
       </main>
