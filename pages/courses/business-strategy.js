@@ -6,7 +6,7 @@ export default function BusinessStrategy() {
       <Head>
         <title>Business Strategy</title>
       </Head>
-      <main style={ padding: 30 }>
+      <main style={{ padding: 30 }}>
         <h1>Business Strategy</h1>
         <p>This is a detailed page for the "Business Strategy" course offered by ABHRC.</p>
       </main>
