@@ -1,9 +1,15 @@
+import Head from 'next/head';
 
 export default function Home() {
   return (
-    <div>
-      <h1>Welcome to ABHRC Website</h1>
-      <p>This is a demo deployment.</p>
-    </div>
-  )
+    <>
+      <Head>
+        <title>ABHRC Home</title>
+      </Head>
+      <main style={{ padding: 30 }}>
+        <h1>Welcome to ABHRC</h1>
+        <p>Your gateway to business and human rights consulting.</p>
+      </main>
+    </>
+  );
 }
